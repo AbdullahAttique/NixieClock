@@ -14,11 +14,13 @@ A six digit nixie tube desk clock Using the IN-12 nixie tubes. Programmed using 
 
 ## Images
 Nixie Tube Clock
-https://github.com/AbdullahAttique/NixieClock/blob/main/clock%20image%20front.jpg
-https://github.com/AbdullahAttique/NixieClock/blob/main/clock%20image%20side.jpg
+![A photograph of the clock from the front](https://github.com/AbdullahAttique/NixieClock/blob/main/clock%20image%20front.jpg?raw=true)
+![A photograph of the clock from an angle](https://github.com/AbdullahAttique/NixieClock/blob/main/clock%20image%20side.jpg?raw=true)
 
 PCB Schematic
 https://github.com/AbdullahAttique/NixieClock/blob/main/Schematic_nixie%20board_2022-04-30.svg
+![PCB schematic](https://github.com/AbdullahAttique/NixieClock/blob/main/Schematic_nixie%20board_2022-04-30.svg?raw=true)
+
 
 
 
